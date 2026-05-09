@@ -6,11 +6,11 @@ main:
   - title: "Research Interests"
     url: "/#research-interests"
 
-  - title: "Projects"
-    url: "/#ongoing-projects"
-  
   - title: "Publications"
     url: "/#selected-publications"
+
+  - title: "Projects"
+    url: "/#ongoing-projects"
         
   # - title: "Blog Posts"
   #   url: /year-archive/

@@ -243,6 +243,15 @@
   cursor: default;
 }
 
+.greedy-nav a:focus {
+  outline: 0;
+}
+
+.greedy-nav a:focus-visible {
+  outline: 2px solid rgba($link-color, 0.35);
+  outline-offset: 0.2rem;
+}
+
 html {
   --masthead-height: 5.75rem;
   --masthead-offset: calc(var(--masthead-height) + 1.25rem);
@@ -333,7 +342,8 @@ body {
 
 #biography,
 #research-interests,
-#selected-publications {
+#selected-publications,
+#ongoing-projects {
   scroll-margin-top: var(--masthead-offset);
   padding-top: var(--masthead-offset);
   margin-top: calc(-1 * var(--masthead-offset));

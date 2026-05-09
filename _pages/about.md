@@ -24,20 +24,6 @@ Time Series Analytics, Spatio-Temporal Data Analytics, AI for Science
 
 Time Series Foundation Models, AutoML, Multi-Agents
 
----
-
-<h1 id="ongoing-projects">Ongoing Projects</h1>
-
-<ul class="selected-papers-list selected-projects-list">
-  <li>Agent-based planning and optimization for complex time series tasks, Huawei University-Enterprise Collaboration Project, 2026-2027.</li>
-  <li>Multimodal industrial time series interpretation and semantic description, Huawei University-Enterprise Collaboration Project, 2025-2027.</li>
-  <li>Intelligent risk inspection for cloud platforms, Alibaba University-Enterprise Collaboration Project, 2025-2026.</li>
-  <li>Multi-dimensional covariate fusion representation and fine-tuning enhancement, Huawei University-Enterprise Collaboration Project, 2025-2026.</li>
-  <li>Explainable automatic anomaly prediction for time series, National Natural Science Foundation of China, 2024-2027.</li>
-</ul>
-
----
-
 <h1 id="selected-publications">Selected Publications</h1>
 
 Full list: [DBLP](https://dblp.org/pers/hd/g/Guo:Chenjuan), [Google Scholar](https://scholar.google.dk/citations?user=WMXNm88AAAAJ&hl=en).
@@ -92,4 +78,16 @@ Full list: [DBLP](https://dblp.org/pers/hd/g/Guo:Chenjuan), [Google Scholar](htt
   <li><span class="paper-authors">Yihang Wang, Yuying Qiu, Peng Chen, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, <strong>Chenjuan Guo</strong>:</span><span class="paper-title">Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer. <strong>ICML</strong></span></li>
   <li><span class="paper-authors">Xingjian Wu, Xiangfei Qiu, Hongfan Gao, Jilin Hu, Bin Yang, <strong>Chenjuan Guo</strong>:</span><span class="paper-title">\(K^2\)VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting. <strong>ICML</strong></span></li>
   <li><span class="paper-authors">Zhe Li, Xiangfei Qiu, Peng Chen, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, <strong>Chenjuan Guo</strong>, Aoying Zhou, Christian S. Jensen, Bin Yang:</span><span class="paper-title">TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting. <strong>KDD</strong></span></li>
+</ul>
+
+---
+
+<h1 id="ongoing-projects">Ongoing Projects</h1>
+
+<ul class="selected-papers-list selected-projects-list">
+  <li>Agent-based planning and optimization for complex time series tasks, Huawei University-Enterprise Collaboration Project, 2026-2027.</li>
+  <li>Multimodal industrial time series interpretation and semantic description, Huawei University-Enterprise Collaboration Project, 2025-2027.</li>
+  <li>Intelligent risk inspection for cloud platforms, Alibaba University-Enterprise Collaboration Project, 2025-2026.</li>
+  <li>Multi-dimensional covariate fusion representation and fine-tuning enhancement, Huawei University-Enterprise Collaboration Project, 2025-2026.</li>
+  <li>Explainable automatic anomaly prediction for time series, National Natural Science Foundation of China, 2024-2027.</li>
 </ul>
