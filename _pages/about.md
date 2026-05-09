@@ -26,9 +26,9 @@ Time Series Foundation Models, AutoML, Multi-Agents
 
 ---
 
-<h1 id="selected-projects">Selected Projects</h1>
+<h1 id="ongoing-projects">Ongoing Projects</h1>
 
-<ul class="selected-projects-list">
+<ul class="selected-papers-list selected-projects-list">
   <li>Agent-based planning and optimization for complex time series tasks, Huawei University-Enterprise Collaboration Project, 2026-2027.</li>
   <li>Multimodal industrial time series interpretation and semantic description, Huawei University-Enterprise Collaboration Project, 2025-2027.</li>
   <li>Intelligent risk inspection for cloud platforms, Alibaba University-Enterprise Collaboration Project, 2025-2026.</li>

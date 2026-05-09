@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Biography"
-    url: "#biography"
+    url: "/#biography"
 
   - title: "Research Interests"
-    url: "#research-interests"
+    url: "/#research-interests"
 
   - title: "Projects"
-    url: "#selected-projects"
+    url: "/#ongoing-projects"
   
   - title: "Publications"
-    url: "#selected-publications"
+    url: "/#selected-publications"
         
   # - title: "Blog Posts"
   #   url: /year-archive/
