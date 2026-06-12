@@ -30,10 +30,10 @@ Paper distinctions should be shown as badges after the venue:
 
 ```html
 <strong>NeurIPS</strong> <span class="paper-note paper-note--spotlight">Spotlight</span>
-<strong>CVPR</strong> <span class="paper-note paper-note--oral">Oral</span>
+<strong>CVPR</strong> <span class="paper-note paper-note--oral">ORAL</span>
 ```
 
-Do not encode distinctions inside the venue name. For example, use `CVPR` plus an `Oral` badge, not `CVPR Oral`.
+Do not encode distinctions inside the venue name. For example, use `CVPR` plus an `ORAL` badge, not `CVPR Oral`.
 
 ## Local Build
 
