@@ -216,9 +216,16 @@
   color: #c0392b;
 }
 
+.selected-papers-list .paper-note {
+  font-weight: 700;
+}
+
 .selected-papers-list .paper-note--spotlight {
   color: #1f78b4;
-  font-weight: 700;
+}
+
+.selected-papers-list .paper-note--oral {
+  color: #8a5a00;
 }
 
 .masthead {
